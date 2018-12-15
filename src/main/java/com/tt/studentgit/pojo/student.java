@@ -6,4 +6,5 @@ package com.tt.studentgit.pojo;
 */
 public class student {
     int age;
+    String name;
 }
